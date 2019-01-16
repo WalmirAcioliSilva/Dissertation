@@ -1,0 +1,66 @@
+﻿Muitos erros de português, concordância e pontuação. Também problemas de citação nas referências. Saiba que não é papel da banca corrigir tais erros (nem mesmo do orientador). Quem tem que entregar um texto de qualidade é o aluno.
+
+Tem também problemas de formatação... Se só tem uma sub-seção, porque colocá-la? E mais, será que essa análise tem a ver com motivação?
+
+Até que marquei algumas coisas para arrumar, mas depois eu parei.
+
+DICA: Para a tua defesa final, faça uma boa revisão (preferência pague algum revisor). A banca não gosta de ter que ler textos ruins
+
+Facilitar a vida dos avaliadores e não complicar. O professor não tem que minerar para encontrar as informações.
+
+O texto todo tem que ser um todo coerente, quer dizer, totalmente integrado e interligado.
+
+Contexto é importante em AmI
+
+CarAmI pode ser uma coisa de IoT
+
+
+
+Pag 8: Tem muita coisa aqui, incluindo os trabalhos correlatos.
+
+
+Pag 9: Não é suficiente dizer que o trabalho é intressante, mas tem-se que provar que é, sem usar frases como esta.
+
+
+Pag 14: Essa sub-seção poderia ser chamada de "Casos de Uso" e deveria ser incluindo pelo menos mais um cenário
+
+
+Pag 17: Deveria ser "o quê" e não "como"
+
+
+Pag 17: Está mais para metodologia (como) do que para objetivos (o quê)
+
+
+Pag 24: Daqui para baixo, tem a ver com trabalhos correlatos?
+
+
+Pag 27: O meu comentário aqui é a preocupação que a tua dissertação não seja somente uma "implementação".
+Melhor focar mais na geração dos resultados, nos benefícios aos usuários, na consciência do contexto (saber que o carro chegou em casa).
+A proposta talvez pudesse também incluir um AmI no trabalho e não somente em casa (só sugestão)
+
+
+Pag 27: Figura não está boa
+
+
+Pag 31: Será que há necessidade? É a primeira vez que você fala sobre isso?
+
+
+Pag 33: Você vai trabahar com todas essas falhas? E a falta de gasolina?
+
+
+Pag 37: Há a necessidade de se incluir isso?
+
+
+Pag 39: Só falta de gasolina? Que outras falhas poderiam ser inseridas?
+
+
+Pag 43: Bem difícil você conseguir defender até fevereiro
+
+
+Pag 43: Eu colocaria só um ou outro. Não tem a defesa da dissertação? Onde estaria a implementação do gateway? Onde estaria  integração com os aparelhos da casa?
+
+
+Pag 45: Se for utilizar aprendizagem de máquina, tem que dizer desde o início e justificar o porquê.
+
+
+ 
